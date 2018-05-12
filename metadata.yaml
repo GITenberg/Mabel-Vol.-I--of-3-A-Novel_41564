@@ -1,0 +1,28 @@
+_repo: Mabel-Vol.-I--of-3-A-Novel_41564
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41564-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Newby, C. J., Mrs.
+    aliases:
+    - Newby, Emma Barry
+    - Warburton, Emma
+    - Newby, Mrs. C. J.
+    gutenberg_agent_id: '39985'
+    url: http://www.gutenberg.org/2009/agents/39985
+description: ''
+gutenberg_issued: '2012-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+title: 'Mabel: A Novel. Vol. 1 (of 3)'
+url: http://www.gutenberg.org/ebooks/41564
